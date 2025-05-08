@@ -37,3 +37,5 @@
 <p align="center">
   ✨ Sempre em busca de aprender mais e evoluir como desenvolvedor! 🚀
 </p>
+
+​![giphy](https://github.com/user-attachments/assets/eabcc0ea-946e-4d25-9afc-44212c6a9de9)
