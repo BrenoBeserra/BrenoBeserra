@@ -37,3 +37,6 @@
 <p align="center">
   ✨ Sempre em busca de aprender mais e evoluir como desenvolvedor! 🚀
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BrenoBesserra/BrenoBesserra/main/breno-figurinha.png" width="200px" alt="Brenin sorrindo">
+</p>
