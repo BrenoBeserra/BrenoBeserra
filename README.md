@@ -22,7 +22,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-beserra-407607354)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bren23._/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onerb2006@gmail.com)
-[![Site](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+[![Site](https://img.shields.io/badge/-Site-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://brenobeserra.github.io)
 ---
 
 ## 📊 Estatísticas do GitHub
